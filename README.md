@@ -3,9 +3,9 @@
 <h3 align="center">a frontend developer passionate about clean code, beautiful UI, and continuous growth.
 Currently working with React and Next.js to build fast, scalable, and user-friendly web applications.</h3>
 
-- 🚀 I’m currently working with **Next.js** and **React**
+- 🚀 I’m currently working with **Next.js** and **React.js**
 - 🌱 Continuously improving my skills in **modern frontend development**
-- 💬 Ask me about **React, Next.js, and frontend best practices**
+- 💬 Ask me about **React.js , Next.js, and frontend best practices**
 - 📫 How to reach me **reihanehh1368@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
